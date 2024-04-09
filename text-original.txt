@@ -1,0 +1,7 @@
+Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. 
+It assumes a linear relationship between the variables, meaning that a change in the independent variable(s) leads to a proportional change in the dependent variable. 
+The goal of linear regression is to find the best-fitting line or hyperplane that minimizes the sum of the squared differences between the observed and predicted values. 
+This is achieved through the method of least squares, which estimates the coefficients (slope) and intercept of the regression line. 
+Linear regression is widely used in various fields, including economics, finance, social sciences, and engineering, for prediction, understanding relationships between variables, and making inferences based on data. 
+It provides insights into how changes in one or more independent variables affect the outcome, allowing for predictive modeling and hypothesis testing. Linear regression can be extended to handle multiple independent variables, leading to multiple linear regression, which captures more complex relationships in the data. 
+Despite its simplicity, linear regression remains a powerful and versatile tool for analyzing and interpreting data in diverse domains.
