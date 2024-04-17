@@ -27,7 +27,7 @@ import azure.cognitiveservices.speech as speechsdk
 
 def speech_recognize_continuous_async_from_microphone():
     """performs continuous speech recognition asynchronously with input from microphone"""
-    speech_config = speechsdk.SpeechConfig(subscription='b543ef38134249559b1a4026793de82d', region='eastus')
+    speech_config = speechsdk.SpeechConfig(subscription='', region='eastus')
     speech_config.speech_recognition_language = "bg-BG"
     # The default language is "en-us".
     speech_recognizer = speechsdk.SpeechRecognizer(speech_config=speech_config)
